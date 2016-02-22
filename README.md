@@ -1,0 +1,1 @@
+This project is a custom view for Koda , The detail is a pic
